@@ -80,5 +80,5 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## Acknowledgements
 
 - This project utilizes the YouTube Data API to scrape YouTube data. Make sure to comply with YouTube's terms of service and API usage policies.
-- If you have any questions or need assistance, please don't hesitate to contact me.
+- If you have any questions or need assistance, please don't hesitate to [contact me](https://www.linkedin.com/in/iampraveens/).
 
