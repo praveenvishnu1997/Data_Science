@@ -74,7 +74,7 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-- This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+- This project is `Un-Licensed`
 - Feel free to use, modify, and distribute this project as needed.
 
 ## Acknowledgements
