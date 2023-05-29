@@ -28,3 +28,13 @@ This allows the Google Client Library to authenticate with the YouTube Data API 
 
 4. Finally, make sure you have a running MongoDB server and a PostgreSQL database set up with the necessary connection details.
 
+## Project Structure
+
+The project consists of the following files:
+
+- `app.py`: Streamlit application for interactive data visualization and exploration.
+- `main.py`: Main script that orchestrates the data scraping and analysis process.
+- `MongoDB_Upload.py`: Script to upload data from the YouTube Data API to MongoDB.
+- `fetchData_from_MongoDB.py`: Script to fetch data from MongoDB and perform data transformation.
+- `migrate_to_SQL.py`: Script to migrate data from MongoDB to PostgreSQL.
+- `channel_analysis.py`: Script with various queries to analyze the YouTube data stored in PostgreSQL.
