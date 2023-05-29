@@ -49,3 +49,7 @@ git clone https://github.com/iampraveens/Youtube-Data-Scraping.git
 ```
 pip install pymongo psycopg2 pandas streamlit google-api-python-client
 ```
+3. Also install the required dependencies:
+```
+pip install -r requirements.txt
+```
