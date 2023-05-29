@@ -38,3 +38,10 @@ The project consists of the following files:
 - `fetchData_from_MongoDB.py`: Script to fetch data from MongoDB and perform data transformation.
 - `migrate_to_SQL.py`: Script to migrate data from MongoDB to PostgreSQL.
 - `channel_analysis.py`: Script with various queries to analyze the YouTube data stored in PostgreSQL.
+
+## Usage
+
+1. Clone the repository:
+```
+git clone https://github.com/iampraveens/Youtube-Data-Scraping.git
+```
