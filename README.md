@@ -22,7 +22,7 @@ To use the YouTube Data API, you will need to set up credentials and obtain an A
 
 1. Create a new project on the [Google Cloud Console](https://console.cloud.google.com/).
 2. Enable the YouTube Data API for your project.
-3. Create credentials for the API by following the instructions provided by Google. Select the appropriate credentials type for your project.
+3. Create credentials for the [YouTube Data API](https://console.cloud.google.com/apis/library) by following the instructions provided by Google. Select the appropriate credentials type for your project.
 
 This allows the Google Client Library to authenticate with the YouTube Data API using your project's credentials.
 
