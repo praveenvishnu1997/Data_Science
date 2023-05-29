@@ -11,8 +11,7 @@ Before running the scripts, make sure you have the following dependencies instal
 - `psycopg2` package (for PostgreSQL interaction)
 - `pandas` package (for data manipulation and analysis)
 - `streamlit` package (for interactive data visualization)
-- Google Client Library for YouTube Data API
+- 'Google Client' Library for YouTube Data API
 
 You can install the required Python packages using pip:
-
-pip install pymongo psycopg2 pandas streamlit google-api-python-client
+- 'pip install pymongo psycopg2 pandas streamlit google-api-python-client'
