@@ -53,7 +53,7 @@ pip install pymongo psycopg2 pandas streamlit google-api-python-client
 ```
 pip install -r requirements.txt
 ```
-#### or
+or
 
 ```
 pip3 install -r requirements.txt
