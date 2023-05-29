@@ -58,3 +58,12 @@ pip install -r requirements.txt
 ```
 pip3 install -r requirements.txt
 ```
+4. Set up the Google Cloud credentials by following the instructions provided in the "Prerequisites" section.
+5. Make sure you have a running MongoDB server and a PostgreSQL database with the necessary connection details. Update the connection parameters in the relevant scripts if needed.
+6. To perform data analysis and visualization, run the Streamlit application:
+
+```
+streamlit run app.py
+```
+The application will open in your browser, allowing you to explore the data and view visualizations.
+7. 7. To perform custom queries and analysis, refer to the `channel_analysis.py` script and execute the desired functions.
