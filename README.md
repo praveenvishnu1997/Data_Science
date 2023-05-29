@@ -45,3 +45,7 @@ The project consists of the following files:
 ```
 git clone https://github.com/iampraveens/Youtube-Data-Scraping.git
 ```
+2. Install the required Python packages:
+```
+pip install pymongo psycopg2 pandas streamlit google-api-python-client
+```
