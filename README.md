@@ -74,13 +74,11 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use, modify, and distribute this project as needed.
+- This project is licensed under the [MIT License](LICENSE).
+- Feel free to use, modify, and distribute this project as needed.
 
 ## Acknowledgements
 
-This project utilizes the YouTube Data API to scrape YouTube data. Make sure to comply with YouTube's terms of service and API usage policies.
-
-If you have any questions or need assistance, please don't hesitate to contact me.
+- This project utilizes the YouTube Data API to scrape YouTube data. Make sure to comply with YouTube's terms of service and API usage policies.
+- If you have any questions or need assistance, please don't hesitate to contact me.
 
