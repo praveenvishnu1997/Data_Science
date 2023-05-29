@@ -10,7 +10,7 @@ Before running the scripts, make sure you have the following dependencies instal
 - `pymongo` package (for MongoDB interaction)
 - `psycopg2` package (for PostgreSQL interaction)
 - `pandas` package (for data manipulation and analysis)
-- `streamlit` package (for interactive data visualization)
+- `streamlit` package (for UI and interactive data visualization)
 - `Google Client` Library for YouTube Data API
 
 You can install the required Python packages using pip:
