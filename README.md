@@ -14,4 +14,4 @@ Before running the scripts, make sure you have the following dependencies instal
 - `Google Client` Library for YouTube Data API
 
 You can install the required Python packages using pip:
-- `pip install pymongo psycopg2 pandas streamlit google-api-python-client`
+```pip install pymongo psycopg2 pandas streamlit google-api-python-client```
