@@ -24,6 +24,7 @@ To use the YouTube Data API, you will need to set up credentials and obtain an A
 2. Enable the YouTube Data API for your project.
 3. Create credentials for the API by following the instructions provided by Google. Select the appropriate credentials type for your project.
 
+This allows the Google Client Library to authenticate with the YouTube Data API using your project's credentials.
 
-   - On Linux or macOS:
+4. Finally, make sure you have a running MongoDB server and a PostgreSQL database set up with the necessary connection details.
 
