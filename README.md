@@ -71,3 +71,16 @@ The application will open in your browser, allowing you to explore the data and 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please create an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to use, modify, and distribute this project as needed.
+
+## Acknowledgements
+
+This project utilizes the YouTube Data API to scrape YouTube data. Make sure to comply with YouTube's terms of service and API usage policies.
+
+If you have any questions or need assistance, please don't hesitate to contact me.
+
