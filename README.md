@@ -66,4 +66,8 @@ pip3 install -r requirements.txt
 streamlit run app.py
 ```
 The application will open in your browser, allowing you to explore the data and view visualizations.
-7. 7. To perform custom queries and analysis, refer to the `channel_analysis.py` script and execute the desired functions.
+7. To perform custom queries and analysis, refer to the `channel_analysis.py` script and execute the desired functions.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please create an issue or submit a pull request.
